@@ -4,7 +4,7 @@ import { TonConnectUIProvider } from '@tonconnect/ui-react';
 import App from './App';
 
 // Replace with your manifest URL
-const manifestUrl = 'https://your-app-url.com/tonconnect-manifest.json';
+const manifestUrl = 'https://wishmaster.vercel.app/tonconnect-manifest.json';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

@@ -2,6 +2,6 @@
   "url": "https://wishmaster.vercel.app",
   "name": "Test App",
   "iconUrl": "https://wishmaster.vercel.app/icon.png",
-  "termsOfUseUrl": "https://your-app-url.com/terms",
-  "privacyPolicyUrl": "https://your-app-url.com/privacy"
+  "termsOfUseUrl": "https://wishmaster.vercel.app/terms",
+  "privacyPolicyUrl": "https://wishmaster.vercel.app/privacy"
 } 
